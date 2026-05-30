@@ -64,3 +64,24 @@ Run Project:
 
 npm install
 npm run dev
+# FactWise Employee Analytics Dashboard
+
+Built with React + Vite + AG Grid Community for the FactWise Frontend SDE Assessment.
+
+## Setup
+
+npm install
+npm run dev
+
+Open http://localhost:5173
+
+## Features
+- AG Grid: sort, filter, pagination, quick search, CSV export, column resize
+- 4 KPI cards: Total, Active Employees, Avg Salary, Avg Rating
+- Department bar chart (Recharts)
+- Top 5 Performers leaderboard
+- Dark mode toggle
+- Status badges, salary formatting, rating color coding
+- Fully responsive
+
+Built by Challagondla Yogeesh Sai
